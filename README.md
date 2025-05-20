@@ -5,7 +5,7 @@ BRCA1 and BRCA2 are genes that help repair damaged DNA and suppress tumor growth
 
 1) Using `train.json`, please write a pipeline that fine-tunes a model to predict the correct label(s). Save training metrics to a readable file.
 2) Please use the model to predict on `predict.json`, and save the outputs.
-3) Pipeline components should be triggered via `.py` files
+3) Pipeline components should be run via `.py` files
 
 You do *not* need to reach any minimum performance metrics for this task!
 
