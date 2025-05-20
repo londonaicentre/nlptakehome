@@ -1,8 +1,6 @@
 # nlptakehome
 ## Toy data for BRCA genomic biomarker classification task.
 
-Please clone this repo to your computer.
-
 BRCA1 and BRCA2 are genes that help repair damaged DNA and suppress tumor growth. Mutations in these genes significantly increase the risk of developing breast, ovarian, and other cancers, and are therefore useful 'biomarkers'. Genetic testing can identify pathogenic variants (harmful mutations) in these genes, allowing individuals to make informed decisions about screening. Sometimes testing discovers a "Variant of Uncertain Significance" (VUS), which is a genetic change whose impact on cancer risk is currently unknown. The datasets contain a set of synthetic (fake) genomic results, that report on BRCA testing.
 
 1) Using `train.json`, please write a pipeline that fine-tunes a model to predict the correct label(s)
